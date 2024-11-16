@@ -1,0 +1,15 @@
+[2024-11-16 20:42:20] [INFO] [#18116] BrainAccess Core initialized.
+[2024-11-16 20:42:20] [INFO] [#18116] CONFIG: logging_enabled: true
+[2024-11-16 20:42:20] [INFO] [#18116] CONFIG: log_level: INFO
+[2024-11-16 20:42:20] [INFO] [#18116] CONFIG: append_logs: false
+[2024-11-16 20:42:20] [INFO] [#18116] CONFIG: timestamps_enabled: true
+[2024-11-16 20:42:20] [INFO] [#18116] CONFIG: thread_ids_enabled: true
+[2024-11-16 20:42:20] [INFO] [#18116] CONFIG: autoflush: true
+[2024-11-16 20:42:20] [INFO] [#18116] CONFIG: log_buffer_size: 512
+[2024-11-16 20:42:20] [INFO] [#18116] CONFIG: chunk_size: 25
+[2024-11-16 20:42:20] [INFO] [#18116] [eeg_manager] (000001B6E91F5320): Created manager
+[2024-11-16 20:42:20] [INFO] [#18116] Bluetooth is enabled
+[2024-11-16 20:42:20] [INFO] [#18116] Bluetooth adapter found
+[2024-11-16 20:42:25] [INFO] [#18116] [eeg_manager] (000001B6E91F5320): Connecting to BA HALO 036
+[2024-11-16 20:42:33] [ERROR] [#18116] [eeg_manager] (000001B6E91F5320): Error while connecting: Operation Failed: Failed to connect to device.
+[2024-11-16 20:42:33] [WARNING] [#18116] [eeg_manager] (000001B6E91F5320): Connect failed
